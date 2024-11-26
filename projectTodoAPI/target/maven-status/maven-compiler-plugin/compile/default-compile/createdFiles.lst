@@ -1,0 +1,12 @@
+com\example\projectTodoAPI\Repository\TaskRepository.class
+com\example\projectTodoAPI\Repository\UserRepository.class
+com\example\projectTodoAPI\ProjectTodoApiApplication.class
+com\example\projectTodoAPI\Service\UserService.class
+com\example\projectTodoAPI\Service\TaskService.class
+com\example\projectTodoAPI\Entity\User.class
+com\example\projectTodoAPI\Entity\subTask.class
+com\example\projectTodoAPI\Controller\SubTaskController.class
+com\example\projectTodoAPI\Entity\Task.class
+com\example\projectTodoAPI\Service\SubTaskService.class
+com\example\projectTodoAPI\Controller\TaskController.class
+com\example\projectTodoAPI\Repository\SubTaskRepository.class
