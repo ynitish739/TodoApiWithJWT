@@ -73,4 +73,3 @@ That's it! With these simple steps, you can run and interact with the **ProjectT
 
 --- 
 
-This README provides a concise guide to getting started with the project.
